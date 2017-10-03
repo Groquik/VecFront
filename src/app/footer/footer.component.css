@@ -1,0 +1,27 @@
+.footer{
+	background-color: #655458;
+}
+
+#goToTop{
+	margin-top: 10px; 
+	background-color: #918587;	
+}
+
+#lienRetourHaut{
+	text-decoration: none;
+	color: white;
+}
+
+.contact-footer-title{
+	color: #DCD7D6;
+	font-style: italic;
+	margin-top:15px;
+}
+
+.footer-links{
+	color: #DCD7D6;
+}
+
+.copyright{
+	margin: 0px;
+}

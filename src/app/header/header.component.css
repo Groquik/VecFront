@@ -1,0 +1,17 @@
+#navigationBar{
+	background-color: #78AB4E;
+}
+
+.dropdown-menu{
+	background-color: #78AB4E;
+}
+
+.dropdown-item:hover{
+	background-color: #28A745;
+}
+
+.top-right-buttons{
+	margin-left: 10px;
+	color: #28A745;
+	cursor: pointer;
+}

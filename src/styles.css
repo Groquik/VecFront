@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+	color: #78AB4E;	
+}
+
+.item{
+	border: 1px solid grey;
+	margin-bottom: 5px;
+}
+
+.container{
+	margin-top: 65px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-weight: italic;
+}
