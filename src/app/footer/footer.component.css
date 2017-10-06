@@ -1,7 +1,10 @@
 .footer{
 	background-color: #655458;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 267px;
 }
-
 #goToTop{
 	margin-top: 10px; 
 	background-color: #918587;	

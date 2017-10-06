@@ -3,7 +3,13 @@
 <div class="container">
   <app-newsfeed></app-newsfeed>
   <app-breadcrumb></app-breadcrumb>
-  <router-outlet></router-outlet>
-  <!-- Routed views go here -->
+  <div id="content" class="row">
+    <div class="col-lg-12 rounded item">
+      <article>
+        <router-outlet></router-outlet>
+        <!-- Routed views go here -->
+      </article>
+    </div>
+  </div>
 </div>
 <app-footer></app-footer>

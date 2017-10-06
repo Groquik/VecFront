@@ -1,4 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+html{
+	position: relative;
+	min-height: 100%;
+}
+
+body{
+	/* Margin bottom by footer height */
+	margin-bottom: 267px;
+}
+
 h1{
 	color: #78AB4E;	
 }
@@ -9,7 +20,7 @@ h1{
 }
 
 .container{
-	margin-top: 65px;
+	padding-top: 65px;
 }
 
 .bold{
